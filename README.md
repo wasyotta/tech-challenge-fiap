@@ -2,6 +2,10 @@
 
 API pública desenvolvida em **Python + FastAPI** como parte do **Tech Challenge da FIAP**.  
 A aplicação expõe endpoints para consulta de livros, categorias e estatísticas, utilizando um dataset extraído do site **books.toscrape.com**.
+---
+
+### 🎥 Vídeo de apresentação e demonstração do projeto
+https://drive.google.com/file/d/11aUq2g3FEzMaCa9HYf4NFriv-1ClfrtJ/view?usp=drive_link
 
 ---
 
